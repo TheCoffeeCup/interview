@@ -1,0 +1,6 @@
+@interviewly_HostAddress = http://localhost:5044
+
+GET {{interviewly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
