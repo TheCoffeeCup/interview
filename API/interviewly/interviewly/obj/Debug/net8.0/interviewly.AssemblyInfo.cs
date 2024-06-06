@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("interviewly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1568bc72d1a39c8300a9f94c260ceb826a6e40a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d931255baa3861f58708b0a18170542c183a028")]
 [assembly: System.Reflection.AssemblyProductAttribute("interviewly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("interviewly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

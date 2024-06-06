@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|c:\\users\\espen\\desktop\\projects\\interview\\api\\interviewly\\interviewly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D57624B-7A23-433C-B54F-A7DE22936AF7}|interviewly\\interviewly.csproj|solutionrelative:interviewly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "interviewly\\Properties\\launchSettings.json",
@@ -47,24 +47,26 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-05T22:16:00.156Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ContactDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Data\\ContactDbContext.cs",
               "RelativeDocumentMoniker": "interviewly\\Data\\ContactDbContext.cs",
               "ToolTip": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Data\\ContactDbContext.cs",
               "RelativeToolTip": "interviewly\\Data\\ContactDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:41:17.193Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Models\\Domain\\Contact.cs",
               "RelativeDocumentMoniker": "interviewly\\Models\\Domain\\Contact.cs",
@@ -73,24 +75,26 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:25:06.96Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Program.cs",
               "RelativeDocumentMoniker": "interviewly\\Program.cs",
               "ToolTip": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Program.cs",
               "RelativeToolTip": "interviewly\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:44:02.998Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "interviewly\\Controllers\\ContactsController.cs",
@@ -103,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AddContactRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\Espen\\Desktop\\projects\\interview\\API\\interviewly\\interviewly\\Models\\AddContactRequestDTO.cs",
               "RelativeDocumentMoniker": "interviewly\\Models\\AddContactRequestDTO.cs",
